@@ -1,0 +1,968 @@
+﻿<loc>
+
+
+	<language lang="en">
+		<str_level>LEVEL </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>CROSS THE FINISH LINE FIRST</str_mission_ranking>
+		<str_mission_ranking_1>1ST PLACE</str_mission_ranking_1>
+		<str_mission_knockout>KNOCK OUT </str_mission_knockout>
+		<str_mission_knockout_1> VEHICLES</str_mission_knockout_1>
+		<str_mission_escape>ESCAPE FROM THE COPS</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> COIN(S) COLLECTED</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> BIG COIN(S) COLLECTED</str_bigcoin_collected_1>
+		<str_topspeed>TOP SPEED</str_topspeed>
+		<str_acceleration>ACCELERATION</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>COIN BONUS</str_coinbonus>
+		<str_topspeed_unit> MPH</str_topspeed_unit>
+		<str_nitro_unit> SECONDS</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total> TOTAL</str_total>
+		<str_unlock_1>CONGRATULATIONS!</str_unlock_1>
+		<str_unlock_2>YOU UNLOCKED A NEW CAR.</str_unlock_2>
+		<str_confirm>ARE YOU SURE?</str_confirm>
+		<str_tuto>TAP TO START.</str_tuto>
+		<str_bonus>BONUS LEVEL!</str_bonus>
+		<skip_level>Do you want to skip this level?</skip_level>
+		<main_hello>Hello [username]</main_hello>
+		<load_success>Save successfully loaded</load_success>
+		<load>Loading...</load>
+		<save>Saving...</save>
+		<saved>Game saved</saved>
+		<main_login>Log in to save the game</main_login>
+		<logout_popup>Do you want to log out of Facebook?</logout_popup>
+		<login_popup>Please log into Facebook to save your progress.</login_popup>
+		<fail_popup>Unable to connect because of a network or server issue. Please check your Internet connection and try again later.</fail_popup>
+		<upgrade_max>MAX</upgrade_max>
+		<str_ranking>RANKING</str_ranking>
+		<str_knockout>KNOCK OUT</str_knockout>
+		<str_escape>ESCAPE</str_escape>
+		<str_boss>BOSS BATTLE</str_boss>
+		<str_next>NEXT LEVEL:</str_next>
+		<str_complete>COMPLETED</str_complete>
+		<str_fail>FAILED</str_fail>
+		<str_sign_in>Sign in to save your progress and get free coins.</str_sign_in>
+		<str_signed_in>Logged into Facebook.</str_signed_in>
+		<str_like>Like our Facebook page and get free coins.</str_like>
+		<str_social>SOCIAL</str_social>
+		<str_achievement>ACHIEVEMENTS</str_achievement>
+		<str_achievement_unlock>ACHIEVEMENT UNLOCKED</str_achievement_unlock>
+		<str_claim>CLAIM</str_claim>
+		<str_popup_add>ADDED 1,000 COINS TO YOUR ACCOUNT.</str_popup_add>
+		<str_share>SHARE IT NOW:</str_share>
+		<str_season_1>SEASON 1</str_season_1>
+		<str_season_2>SEASON 2</str_season_2>
+		<str_season_3>SEASON 3</str_season_3>
+		<str_unlock_share>I UNLOCKED A NEW CAR.</str_unlock_share>
+		<str_description>NitroStreet Run is back and bigger than ever!</str_description>
+		<str_achievement_share>I UNLOCKED AN ACHIEVEMENT.</str_achievement_share>
+		<str_achievement_1>Upgrade your car twice.</str_achievement_1>
+		<str_achievement_2>Knock out 10 cars.</str_achievement_2>
+		<str_social_bonus>BONUS LEVEL</str_social_bonus>
+		<str_1000>1,000</str_1000>
+		<str_achievement_3>Play the Bonus level 4 times.</str_achievement_3>
+		<str_achievement_4>Defeat 2 bosses.</str_achievement_4>
+		<str_coming>Coming soon</str_coming>
+		<str_hint_1>Try switching cars: Some races are easier to win with a fast car, some with a slower one.</str_hint_1>
+		<str_hint_2>The key to winning is upgrading your cars.</str_hint_2>
+		<str_hint_3>A good strategy is to gather nitro power-ups during races.</str_hint_3>
+		<str_unlock_3>YOU UNLOCKED THE SUPERCAR!</str_unlock_3>
+		<str_share_1>Let your friends know how awesome you are:</str_share_1>
+		<str_share_2>Brag about your achievement:</str_share_2>
+		<str_progress>YOUR PROGRESS:</str_progress>
+	</language>
+	
+	<language lang="vi">
+		<str_level>MÀN </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>CÁN ĐÍCH ĐẦU TIÊN</str_mission_ranking>
+		<str_mission_ranking_1>HẠNG NHẤT</str_mission_ranking_1>
+		<str_mission_knockout>HẠ GỤC </str_mission_knockout>
+		<str_mission_knockout_1> XE</str_mission_knockout_1>
+		<str_mission_escape>THOÁT KHỎI CỚM</str_mission_escape>
+		<str_coin_collected>THU THẬP </str_coin_collected>
+		<str_coin_collected_1> XU</str_coin_collected_1>
+		<str_bigcoin_collected>THU THẬP </str_bigcoin_collected>
+		<str_bigcoin_collected_1> XU LỚN</str_bigcoin_collected_1>
+		<str_topspeed>TỐC ĐỘ TỐI ĐA</str_topspeed>
+		<str_acceleration>TĂNG TỐC</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>BONUS XU</str_coinbonus>
+		<str_topspeed_unit> KM/H</str_topspeed_unit>
+		<str_nitro_unit> GIÂY</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total> TỔNG</str_total>
+		<str_unlock_1>CHÚC MỪNG!</str_unlock_1>
+		<str_unlock_2>BẠN ĐÃ MỞ KHÓA XE MỚI.</str_unlock_2>
+		<str_confirm>BẠN CHẮC KHÔNG?</str_confirm>
+		<str_tuto>CHẠM ĐỂ BẮT ĐẦU.</str_tuto>
+		<str_bonus>BONUS CỦA MÀN!</str_bonus>
+		<skip_level>Bạn có muốn bỏ qua màn này?</skip_level>
+		<main_hello>Chào [username]</main_hello>
+		<load_success>Tải bản lưu thành công</load_success>
+		<load>Đang tải...</load>
+		<save>Đang lưu...</save>
+		<saved>Trò chơi đã lưu</saved>
+		<main_login>Đăng nhập để lưu trò chơi</main_login>
+		<logout_popup>Bạn có muốn thoát Facebook?</logout_popup>
+		<login_popup>Xin đăng nhập Facebook để lưu tiến trình chơi.</login_popup>
+		<fail_popup>Không thể kết nối do lỗi mạng hoặc máy chủ. Xin kiểm tra kết nối Internet của bạn và thử lại sau.</fail_popup>
+		<upgrade_max>TỐI ĐA</upgrade_max>
+		<str_ranking>TRANH HẠNG</str_ranking>
+		<str_knockout>NỐC AO</str_knockout>
+		<str_escape>TẨU THOÁT</str_escape>
+		<str_boss>ĐẤU TRÙM</str_boss>
+		<str_next>MÀN SAU:</str_next>
+		<str_complete>HOÀN THÀNH</str_complete>
+		<str_fail>THẤT BẠI</str_fail>
+		<str_sign_in>Đăng nhập để lưu tiến trình chơi và hốt xu miễn phí.</str_sign_in>
+		<str_signed_in>Đã đăng nhập Facebook.</str_signed_in>
+		<str_like>Thích trang Facebook của chúng tôi và hốt xu miễn phí.</str_like>
+		<str_social>XÃ HỘI</str_social>
+		<str_achievement>THÀNH TÍCH</str_achievement>
+		<str_achievement_unlock>THÀNH TÍCH ĐÃ MỞ KHÓA</str_achievement_unlock>
+		<str_claim>NHẬN</str_claim>
+		<str_popup_add>ĐÃ THÊM 1.000 XU VÀO TÀI KHOẢN CỦA BẠN.</str_popup_add>
+		<str_share>CHIA SẺ NGAY:</str_share>
+		<str_season_1>MÙA 1</str_season_1>
+		<str_season_2>MÙA 2</str_season_2>
+		<str_season_3>MÙA 3</str_season_3>
+		<str_unlock_share>Tôi đã mở khóa xe mới.</str_unlock_share>
+		<str_description>NitroStreet Run đã trở lại lợi hại hơn xưa!</str_description>
+		<str_achievement_share>Tôi đã mở khóa thành tích.</str_achievement_share>
+		<str_achievement_1>Nâng cấp xe hai lần.</str_achievement_1>
+		<str_achievement_2>Hạ gục 10 xe.</str_achievement_2>
+		<str_social_bonus>BONUS CỦA MÀN</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Chơi màn Bonus 4 lần.</str_achievement_3>
+		<str_achievement_4>Hạ 2 trùm</str_achievement_4>
+		<str_coming>Sắp có</str_coming>
+		<str_hint_1>Thử đổi xe: Vài cuộc đua dễ thắng hơn với xe nhanh, số khác với xe chậm.</str_hint_1>
+		<str_hint_2>Bí kíp để thắng là nâng cấp xe.</str_hint_2>
+		<str_hint_3>Chiến lược hay là nhặt nitro khi đua.</str_hint_3>
+		<str_unlock_3>BẠN ĐÃ MỞ KHÓA SIÊU XE!</str_unlock_3>
+		<str_share_1>Báo với bạn bè thánh đua xe đã xuất hiện:</str_share_1>
+		<str_share_2>Khoe thành tích của bạn:</str_share_2>
+		<str_progress>TIẾN TRÌNH CỦA BẠN:</str_progress>
+	</language>
+	
+	<language lang="fr">
+		<str_level>NIVEAU </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>SOIS LE PREMIER À FRANCHIR LA LIGNE D'ARRIVÉE</str_mission_ranking>
+		<str_mission_ranking_1>1RE PLACE</str_mission_ranking_1>
+		<str_mission_knockout>DÉTRUIS </str_mission_knockout>
+		<str_mission_knockout_1> VÉHICULES</str_mission_knockout_1>
+		<str_mission_escape>SÈME LES FLICS</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> PIÈCE(S) RÉCUPÉRÉE(S)</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> GROSSE(S) PIÈCE(S) RÉCUPÉRÉE(S)</str_bigcoin_collected_1>
+		<str_topspeed>VITESSE MAX.</str_topspeed>
+		<str_acceleration>ACCÉLÉRATION</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>BONUS DE PIÈCES</str_coinbonus>
+		<str_topspeed_unit> MPH</str_topspeed_unit>
+		<str_nitro_unit> S.</str_nitro_unit>
+		<str_coinbonus_unit> %</str_coinbonus_unit>
+		<str_total>TOTAL</str_total>
+		<str_unlock_1>FÉLICITATIONS !</str_unlock_1>
+		<str_unlock_2>TU AS DÉBLOQUÉ UNE NOUVELLE VOITURE.</str_unlock_2>
+		<str_confirm>ES-TU SÛR ?</str_confirm>
+		<str_tuto>TOUCHE POUR COMMENCER.</str_tuto>
+		<str_bonus>NIVEAU BONUS !</str_bonus>
+		<skip_level>Veux-tu passer ce niveau ?</skip_level>
+		<main_hello>Bonjour, [username]</main_hello>
+		<load_success>Sauvegarde chargée</load_success>
+		<load>Chargement...</load>
+		<save>Sauvegarde...</save>
+		<saved>Partie sauvegardée</saved>
+		<main_login>Connecte-toi pour sauvegarder la partie</main_login>
+		<logout_popup>Se déconnecter de Facebook ?</logout_popup>
+		<login_popup>Merci de te connecter à Facebook pour sauvegarder ta progression.</login_popup>
+		<fail_popup>Connexion impossible en raison d'un problème de serveur. Merci de vérifier ta connexion Internet et de réessayer plus tard.</fail_popup>
+		<upgrade_max>MAX.</upgrade_max>
+		<str_ranking>PODIUM</str_ranking>
+		<str_knockout>K.O.</str_knockout>
+		<str_escape>FUITE</str_escape>
+		<str_boss>BATAILLE</str_boss>
+		<str_next>NIVEAU SUIVANT :</str_next>
+		<str_complete>TERMINÉ</str_complete>
+		<str_fail>ÉCHEC</str_fail>
+		<str_sign_in>Connecte-toi pour sauvegarder ta progression et obtenir des pièces gratuites.</str_sign_in>
+		<str_signed_in>Connecté à Facebook.</str_signed_in>
+		<str_like>Aime notre page Facebook et obtiens des pièces gratuites.</str_like>
+		<str_social>SOCIAL</str_social>
+		<str_achievement>SUCCÈS</str_achievement>
+		<str_achievement_unlock>SUCCÈS DÉBLOQUÉ</str_achievement_unlock>
+		<str_claim>RÉCUPÉRER</str_claim>
+		<str_popup_add>1000 PIÈCES ONT ÉTÉ AJOUTÉES SUR TON COMPTE.</str_popup_add>
+		<str_share>PARTAGER SUR :</str_share>
+		<str_season_1>SAISON 1</str_season_1>
+		<str_season_2>SAISON 2</str_season_2>
+		<str_season_3>SAISON 3</str_season_3>
+		<str_unlock_share>J'ai débloqué une nouvelle voiture.</str_unlock_share>
+		<str_description>NitroStreet Run est de retour et plus grand que jamais !</str_description>
+		<str_achievement_share>J'ai débloqué un succès.</str_achievement_share>
+		<str_achievement_1>Améliore ta voiture deux fois.</str_achievement_1>
+		<str_achievement_2>Mets K.O. 10 voitures.</str_achievement_2>
+		<str_social_bonus>NIVEAU BONUS</str_social_bonus>
+		<str_1000>1000</str_1000>
+		<str_achievement_3>Joue au niveau bonus 4 fois.</str_achievement_3>
+		<str_achievement_4>Bats 2 boss</str_achievement_4>
+		<str_coming>Prochainement</str_coming>
+		<str_hint_1>Essaie de changer de voiture : certaines courses sont plus faciles à gagner avec une voiture rapide, d'autres avec une voiture plus lente.</str_hint_1>
+		<str_hint_2>La clé de la victoire réside dans l'amélioration de tes voitures.</str_hint_2>
+		<str_hint_3>Une bonne stratégie consiste à récupérer des power-ups de nitro durant les courses.</str_hint_3>
+		<str_unlock_3>TU AS DÉBLOQUÉ LA SUPERCAR !</str_unlock_3>
+		<str_share_1>Fais savoir à tes amis combien tu es trop top :</str_share_1>
+		<str_share_2>Vante-toi de ton succès :</str_share_2>
+		<str_progress>TA PROGRESSION :</str_progress>
+	</language>
+	
+	<language lang="de">
+		<str_level>LEVEL </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>ÜBERQUERE ALS ERSTER DIE ZIELLINIE.</str_mission_ranking>
+		<str_mission_ranking_1>1. PLATZ</str_mission_ranking_1>
+		<str_mission_knockout>VERNICHTE </str_mission_knockout>
+		<str_mission_knockout_1> FAHRZEUGE.</str_mission_knockout_1>
+		<str_mission_escape>ENTKOMME DER POLIZEI.</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> MÜNZE(N) GESAMMELT</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> GROSSE MÜNZE(N) GESAMMELT</str_bigcoin_collected_1>
+		<str_topspeed>HÖCHSTTEMPO</str_topspeed>
+		<str_acceleration>BESCHLEUNIGUNG</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>MÜNZEN-BONUS</str_coinbonus>
+		<str_topspeed_unit> MPH</str_topspeed_unit>
+		<str_nitro_unit> SEKUNDEN</str_nitro_unit>
+		<str_coinbonus_unit> %</str_coinbonus_unit>
+		<str_total>GESAMT</str_total>
+		<str_unlock_1>GLÜCKWUNSCH!</str_unlock_1>
+		<str_unlock_2>DU HAST EINEN NEUEN WAGEN AKTIVIERT.</str_unlock_2>
+		<str_confirm>BIST DU SICHER?</str_confirm>
+		<str_tuto>BERÜHREN: START</str_tuto>
+		<str_bonus>BONUS-LEVEL!</str_bonus>
+		<skip_level>Möchtest du diesen Level überspringen?</skip_level>
+		<main_hello>Hallo, [username]</main_hello>
+		<load_success>Speicherspiel erfolgreich geladen</load_success>
+		<load>Lädt…</load>
+		<save>Speichert…</save>
+		<saved>Spiel gespeichert</saved>
+		<main_login>Melde dich an, um das Spiel zu speichern.</main_login>
+		<logout_popup>Willst du dich bei Facebook abmelden?</logout_popup>
+		<login_popup>Melde dich bitte bei Facebook an, um deinen Fortschritt zu speichern.</login_popup>
+		<fail_popup>Verbindung konnte aufgrund eines Netzwerk- oder Server-Problems nicht hergestellt werden. Überprüfe bitte deine Internetverbindung und versuche es später erneut.</fail_popup>
+		<upgrade_max>MAX.</upgrade_max>
+		<str_ranking>RANG</str_ranking>
+		<str_knockout>VERNICHTUNG</str_knockout>
+		<str_escape>ENTKOMMEN</str_escape>
+		<str_boss>BOSS- KAMPF</str_boss>
+		<str_next>NÄCHSTER LEVEL:</str_next>
+		<str_complete>BEENDET</str_complete>
+		<str_fail>VERLOREN</str_fail>
+		<str_sign_in>Melde dich an, um deinen Fortschritt zu speichern und Gratis-Münzen zu erhalten.</str_sign_in>
+		<str_signed_in>Bei Facebook angemeldet</str_signed_in>
+		<str_like>Markiere unsere Facebook-Seite mit "Gefällt mir" und erhalte Gratis-Münzen.</str_like>
+		<str_social>SOZIAL</str_social>
+		<str_achievement>TROPHÄEN</str_achievement>
+		<str_achievement_unlock>TROPHÄE AKTIVIERT</str_achievement_unlock>
+		<str_claim>EINFORDERN</str_claim>
+		<str_popup_add>DEINEM KONTO WURDEN 1.000 MÜNZEN HINZUGEFÜGT.</str_popup_add>
+		<str_share>JETZT TEILEN:</str_share>
+		<str_season_1>SAISON 1</str_season_1>
+		<str_season_2>SAISON 2</str_season_2>
+		<str_season_3>SAISON 3</str_season_3>
+		<str_unlock_share>ICH HABE EINEN NEUEN WAGEN AKTIVIERT.</str_unlock_share>
+		<str_description>Nitro Street Run ist zurück und größer als je zuvor!</str_description>
+		<str_achievement_share>ICH HABE EINE TROPHÄE AKTIVIERT.</str_achievement_share>
+		<str_achievement_1>Verbessere deinen Wagen zwei Mal.</str_achievement_1>
+		<str_achievement_2>Schalte 10 Wagen aus.</str_achievement_2>
+		<str_social_bonus>BONUS-LEVEL</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Spiele 4-mal den Bonus-Level.</str_achievement_3>
+		<str_achievement_4>Besiege 2 Bosse.</str_achievement_4>
+		<str_coming>Bald verfügbar</str_coming>
+		<str_hint_1>Versuche, deinen Wagen zu wechseln: Manche Rennen können besser mit schnellen Wagen gewonnen werden, andere eher mit langsameren.</str_hint_1>
+		<str_hint_2>Der Schlüssel zum Sieg ist das Verbessern deines Wagens.</str_hint_2>
+		<str_hint_3>Eine gute Strategie ist das Sammeln von Nitro-Extras während der Rennen.</str_hint_3>
+		<str_unlock_3>DU HAST DEN SUPERWAGEN AKTIVIERT!</str_unlock_3>
+		<str_share_1>Zeige deinen Freunden, wie genial du bist:</str_share_1>
+		<str_share_2>Prahle über deine Leistung:</str_share_2>
+		<str_progress>DEIN FORTSCHRITT:</str_progress>
+	</language>
+	
+	<language lang="es">
+		<str_level>NIVEL </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>SÉ EL PRIMERO EN CRUZAR LA META</str_mission_ranking>
+		<str_mission_ranking_1>1.ª POSICIÓN</str_mission_ranking_1>
+		<str_mission_knockout>DERRIBA </str_mission_knockout>
+		<str_mission_knockout_1> VEHÍCULOS</str_mission_knockout_1>
+		<str_mission_escape>ESCAPA DE LA POLICÍA</str_mission_escape>
+		<str_coin_collected>MONEDAS RECOGIDAS: </str_coin_collected>
+		<str_coin_collected_1> </str_coin_collected_1>
+		<str_bigcoin_collected>MONEDAS GRANDES RECOGIDAS: </str_bigcoin_collected>
+		<str_bigcoin_collected_1> </str_bigcoin_collected_1>
+		<str_topspeed>VELOCIDAD MÁXIMA</str_topspeed>
+		<str_acceleration>ACELERACIÓN</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>BONUS DE MONEDAS</str_coinbonus>
+		<str_topspeed_unit> KM/H</str_topspeed_unit>
+		<str_nitro_unit> SEGUNDOS</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>TOTAL</str_total>
+		<str_unlock_1>¡ENHORABUENA!</str_unlock_1>
+		<str_unlock_2>HAS DESBLOQUEADO UN NUEVO COCHE</str_unlock_2>
+		<str_confirm>¿SEGURO?</str_confirm>
+		<str_tuto>TOCA PARA EMPEZAR</str_tuto>
+		<str_bonus>¡NIVEL BONUS!</str_bonus>
+		<skip_level>¿Quieres omitir este nivel?</skip_level>
+		<main_hello>¡Hola, [username]!</main_hello>
+		<load_success>Se ha cargado la partida guardada</load_success>
+		<load>Cargando...</load>
+		<save>Guardando...</save>
+		<saved>Partida guardada</saved>
+		<main_login>Inicia sesión para guardar la partida</main_login>
+		<logout_popup>¿Quieres cerrar sesión en Facebook?</logout_popup>
+		<login_popup>Por favor, inicia sesión en Facebook para guardar tu progreso.</login_popup>
+		<fail_popup>Conexión imposible debido a un problema de la red o del servidor. Por favor, comprueba tu conexión a internet y vuelve a intentarlo más tarde.</fail_popup>
+		<upgrade_max>MÁX.</upgrade_max>
+		<str_ranking>CARRERA</str_ranking>
+		<str_knockout>DERRIBOS</str_knockout>
+		<str_escape>FUGA</str_escape>
+		<str_boss>CARA A CARA</str_boss>
+		<str_next>SIGUIENTE NIVEL:</str_next>
+		<str_complete>COMPLETADO</str_complete>
+		<str_fail>FALLADO</str_fail>
+		<str_sign_in>Inicia sesión para guardar tu progreso y conseguir monedas gratis.</str_sign_in>
+		<str_signed_in>Conectado a Facebook.</str_signed_in>
+		<str_like>Dale a "Me gusta" a nuestra página de Facebook y consigue monedas gratis.</str_like>
+		<str_social>SOCIAL</str_social>
+		<str_achievement>LOGROS</str_achievement>
+		<str_achievement_unlock>LOGRO DESBLOQUEADO</str_achievement_unlock>
+		<str_claim>RECLAMAR</str_claim>
+		<str_popup_add>HEMOS AÑADIDO 1000 MONEDAS A TU CUENTA.</str_popup_add>
+		<str_share>COMPARTIRLO AHORA:</str_share>
+		<str_season_1>TEMPORADA 1</str_season_1>
+		<str_season_2>TEMPORADA 2</str_season_2>
+		<str_season_3>TEMPORADA 3</str_season_3>
+		<str_unlock_share>HE DESBLOQUEADO UN NUEVO COCHE.</str_unlock_share>
+		<str_description>¡NitroStreet Run ha regresado y es más grande que nunca!</str_description>
+		<str_achievement_share>HE DESBLOQUEADO UN LOGRO.</str_achievement_share>
+		<str_achievement_1>Mejora tu coche dos veces.</str_achievement_1>
+		<str_achievement_2>Derriba 10 coches.</str_achievement_2>
+		<str_social_bonus>NIVEL BONUS</str_social_bonus>
+		<str_1000>1 000</str_1000>
+		<str_achievement_3>Juega 4 veces al nivel bonus.</str_achievement_3>
+		<str_achievement_4>Derrota a 2 jefes en "Cara a cara".</str_achievement_4>
+		<str_coming>Próximamente</str_coming>
+		<str_hint_1>Prueba a cambiar de coche: algunas carreras son más fáciles con un coche rápido y otras, con uno más lento.</str_hint_1>
+		<str_hint_2>La clave para ganar es mejorar tus coches.</str_hint_2>
+		<str_hint_3>Recoger nitro durante las carreras es una buena estrategia.</str_hint_3>
+		<str_unlock_3>¡HAS DESBLOQUEADO EL SUPERCOCHE!</str_unlock_3>
+		<str_share_1>Diles a tus amigos lo genial que eres:</str_share_1>
+		<str_share_2>Presume de tu logro:</str_share_2>
+		<str_progress>TU PROGRESO:</str_progress>
+	</language>
+	
+	<language lang="it">
+		<str_level>LIVELLO </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>TAGLIA PER PRIMO IL TRAGUARDO.</str_mission_ranking>
+		<str_mission_ranking_1>1° POSTO</str_mission_ranking_1>
+		<str_mission_knockout>ELIMINA </str_mission_knockout>
+		<str_mission_knockout_1> VEICOLI</str_mission_knockout_1>
+		<str_mission_escape>SCAPPA DALLA POLIZIA</str_mission_escape>
+		<str_coin_collected>MONETE RACCOLTE - </str_coin_collected>
+		<str_coin_collected_1> </str_coin_collected_1>
+		<str_bigcoin_collected>GROSSE MONETE RACCOLTE - </str_bigcoin_collected>
+		<str_bigcoin_collected_1> </str_bigcoin_collected_1>
+		<str_topspeed>VELOCITÀ MASSIMA</str_topspeed>
+		<str_acceleration>ACCELERAZIONE</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>MONETE EXTRA</str_coinbonus>
+		<str_topspeed_unit> KM/H</str_topspeed_unit>
+		<str_nitro_unit> SECONDI</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>TOT.</str_total>
+		<str_unlock_1>COMPLIMENTI!</str_unlock_1>
+		<str_unlock_2>HAI SBLOCCATO UNA NUOVA AUTO.</str_unlock_2>
+		<str_confirm>CONFERMI?</str_confirm>
+		<str_tuto>TOCCA PER INIZIARE.</str_tuto>
+		<str_bonus>LIVELLO BONUS!</str_bonus>
+		<skip_level>Vuoi saltare questo livello?</skip_level>
+		<main_hello>Salve, [username]</main_hello>
+		<load_success>Salvataggio caricato</load_success>
+		<load>Caricamento...</load>
+		<save>Salvataggio...</save>
+		<saved>Partita salvata</saved>
+		<main_login>Accedi per salvare la partita</main_login>
+		<logout_popup>Vuoi uscire da Facebook?</logout_popup>
+		<login_popup>Accedi a Facebook per salvare i progressi.</login_popup>
+		<fail_popup>Impossibile connettersi a causa di un errore con il server o con la rete. Verifica la tua connessione a internet e riprova.</fail_popup>
+		<upgrade_max>MAX</upgrade_max>
+		<str_ranking>GARA</str_ranking>
+		<str_knockout>DISTRUZIONE</str_knockout>
+		<str_escape>FUGA</str_escape>
+		<str_boss>SFIDA BOSS</str_boss>
+		<str_next>LIVELLO SUCCESSIVO:</str_next>
+		<str_complete>COMPLETATO</str_complete>
+		<str_fail>SCONFITTA</str_fail>
+		<str_sign_in>Accedi per salvare i tuoi progressi e ottenere monete gratis.</str_sign_in>
+		<str_signed_in>Hai effettuato l'accesso a Facebook.</str_signed_in>
+		<str_like>Clicca "Mi piace" sulla nostra pagina Facebook per ottenere monete gratis.</str_like>
+		<str_social>SOCIAL</str_social>
+		<str_achievement>TROFEI</str_achievement>
+		<str_achievement_unlock>TROFEO SBLOCCATO</str_achievement_unlock>
+		<str_claim>RISCUOTI</str_claim>
+		<str_popup_add>SONO STATE AGGIUNTE 1.000 MONETE AL TUO ACCOUNT.</str_popup_add>
+		<str_share>CONDIVIDI SUBITO:</str_share>
+		<str_season_1>STAGIONE 1</str_season_1>
+		<str_season_2>STAGIONE 2</str_season_2>
+		<str_season_3>STAGIONE 3</str_season_3>
+		<str_unlock_share>HO SBLOCCATO UNA NUOVA AUTO.</str_unlock_share>
+		<str_description>NitroStreet Run è tornato ed è più grande che mai!</str_description>
+		<str_achievement_share>HO VINTO UN TROFEO.</str_achievement_share>
+		<str_achievement_1>Potenzia due volte la tua auto.</str_achievement_1>
+		<str_achievement_2>Elimina 10 auto.</str_achievement_2>
+		<str_social_bonus>LIVELLO BONUS</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Gioca al livello bonus 4 volte.</str_achievement_3>
+		<str_achievement_4>Sconfiggi 2 boss</str_achievement_4>
+		<str_coming>In arrivo</str_coming>
+		<str_hint_1>Prova a cambiare auto: alcune gare sono più facili da vincere con un'auto veloce, altre risultano più semplici con un'auto più lenta.</str_hint_1>
+		<str_hint_2>La chiave per vincere è il potenziamento delle auto.</str_hint_2>
+		<str_hint_3>Una buona strategia durante la corsa è quella di raccogliere il nitro bonus.</str_hint_3>
+		<str_unlock_3>HAI SBLOCCATO LA SUPERAUTO!</str_unlock_3>
+		<str_share_1>Fai sapere ai tuoi amici quanto sei bravo:</str_share_1>
+		<str_share_2>Vantati dei tuoi traguardi:</str_share_2>
+		<str_progress>I TUOI PROGRESSI:</str_progress>
+	</language>
+	
+	<language lang="br">
+		<str_level>NÍVEL </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>CHEGUE PRIMEIRO À LINHA DE CHEGADA.</str_mission_ranking>
+		<str_mission_ranking_1>PRIMEIRO LUGAR</str_mission_ranking_1>
+		<str_mission_knockout>NOCAUTEIE </str_mission_knockout>
+		<str_mission_knockout_1> CARROS</str_mission_knockout_1>
+		<str_mission_escape>FUJA DA POLÍCIA</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> MOEDA(S) RECOLHIDA(S)</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> MOEDA(S) GRANDE(S) RECOLHIDA(S)</str_bigcoin_collected_1>
+		<str_topspeed>VELOCIDADE MÁXIMA</str_topspeed>
+		<str_acceleration>ACELERAÇÃO</str_acceleration>
+		<str_nitro>PROPULSÃO</str_nitro>
+		<str_coinbonus>MOEDAS BÔNUS</str_coinbonus>
+		<str_topspeed_unit> KM/H</str_topspeed_unit>
+		<str_nitro_unit> SEGUNDOS</str_nitro_unit>
+		<str_coinbonus_unit> %</str_coinbonus_unit>
+		<str_total>TOTAL</str_total>
+		<str_unlock_1>PARABÉNS</str_unlock_1>
+		<str_unlock_2>VOCÊ DESBLOQUEOU UM NOVO CARRO.</str_unlock_2>
+		<str_confirm>TEM CERTEZA?</str_confirm>
+		<str_tuto>TOQUE PARA INICIAR.</str_tuto>
+		<str_bonus>NÍVEL BÔNUS!</str_bonus>
+		<skip_level>Deseja pular este nível?</skip_level>
+		<main_hello>Olá, [username]</main_hello>
+		<load_success>Jogo salvo carregado</load_success>
+		<load>Carregando...</load>
+		<save>Salvando...</save>
+		<saved>Jogo salvo</saved>
+		<main_login>Conecte-se para salvar o jogo</main_login>
+		<logout_popup>Quer se desconectar do Facebook?</logout_popup>
+		<login_popup>Conecte-se ao Facebook para salvar seu progresso.</login_popup>
+		<fail_popup>Não foi possível se conectar devido a um problema no servidor ou na rede. Verifique sua conexão à internet e tente novamente mais tarde.</fail_popup>
+		<upgrade_max>MÁX</upgrade_max>
+		<str_ranking>PÓDIO</str_ranking>
+		<str_knockout>NOCAUTE</str_knockout>
+		<str_escape>FUGA</str_escape>
+		<str_boss>CHEFE</str_boss>
+		<str_next>PRÓX. NÍVEL:</str_next>
+		<str_complete>CONCLUÍDA</str_complete>
+		<str_fail>FALHOU</str_fail>
+		<str_sign_in>Registre-se para salvar seu progresso e ganhar moedas.</str_sign_in>
+		<str_signed_in>Conexão com o Facebook.</str_signed_in>
+		<str_like>Curta nossa página no Facebook e ganhe moedas.</str_like>
+		<str_social>SOCIAL</str_social>
+		<str_achievement>CONQUISTAS</str_achievement>
+		<str_achievement_unlock>CONQUISTA DESBLOQUEADA</str_achievement_unlock>
+		<str_claim>OBTER</str_claim>
+		<str_popup_add>1.000 MOEDAS ADICIONADAS À SUA CONTA.</str_popup_add>
+		<str_share>COMPARTILHE AGORA:</str_share>
+		<str_season_1>TEMPORADA 1</str_season_1>
+		<str_season_2>TEMPORADA 2</str_season_2>
+		<str_season_3>TEMPORADA 3</str_season_3>
+		<str_unlock_share>Desbloqueei um novo carro.</str_unlock_share>
+		<str_description>NitroStreet Run voltou mais forte que nunca!</str_description>
+		<str_achievement_share>Desbloqueei uma conquista.</str_achievement_share>
+		<str_achievement_1>Melhore seu carro duas vezes.</str_achievement_1>
+		<str_achievement_2>Destrua 10 carros.</str_achievement_2>
+		<str_social_bonus>NÍVEL BÔNUS</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Jogue o nível Bônus 4 vezes.</str_achievement_3>
+		<str_achievement_4>Derrote 2 chefes.</str_achievement_4>
+		<str_coming>Em Breve</str_coming>
+		<str_hint_1>Tente trocar de carro: algumas corridas são mais fáceis de vencer com um carro veloz, outras com um mais lento.</str_hint_1>
+		<str_hint_2>A chave para a vitória é melhorar seus carros.</str_hint_2>
+		<str_hint_3>Uma estratégia boa é recolher acessórios de propulsão durante as corridas.</str_hint_3>
+		<str_unlock_3>VOCÊ DESBLOQUEOU O SUPERCARRO!</str_unlock_3>
+		<str_share_1>Espalhe entre seus amigos o quanto você é incrível:</str_share_1>
+		<str_share_2>Tire onda com sua conquista:</str_share_2>
+		<str_progress>SEU PROGRESSO:</str_progress>
+	</language>
+	
+	<language lang="tr">
+		<str_level> </str_level>
+		<str_level_1>. SEVİYE</str_level_1>
+		<str_mission_ranking>BİTİŞ ÇİZGİSİNDEN İLK GEÇEN OL.</str_mission_ranking>
+		<str_mission_ranking_1>BİRİNCİ</str_mission_ranking_1>
+		<str_mission_knockout> </str_mission_knockout>
+		<str_mission_knockout_1> ARACI YOLDAN ÇIKAR</str_mission_knockout_1>
+		<str_mission_escape>POLİSLERDEN KAÇ</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> ALTIN PARA TOPLANDI</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> BÜYÜK ALTIN PARA TOPLANDI</str_bigcoin_collected_1>
+		<str_topspeed>MAKSİMUM HIZ</str_topspeed>
+		<str_acceleration>HIZLANMA</str_acceleration>
+		<str_nitro>NİTRO</str_nitro>
+		<str_coinbonus>ALTIN PARA BONUSU</str_coinbonus>
+		<str_topspeed_unit> MPH</str_topspeed_unit>
+		<str_nitro_unit> SANİYE</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>TOPLAM</str_total>
+		<str_unlock_1>TEBRİKLER!</str_unlock_1>
+		<str_unlock_2>YENİ BİR ARABANIN KİLİDİNİ AÇTIN.</str_unlock_2>
+		<str_confirm>EMİN MİSİN?</str_confirm>
+		<str_tuto>BAŞLAMAK İÇİN DOKUN.</str_tuto>
+		<str_bonus>BONUS SEVİYE!</str_bonus>
+		<skip_level>Bu seviyeyi atlamak istiyor musun?</skip_level>
+		<main_hello>Merhaba, [username]</main_hello>
+		<load_success>Kayıt başarıyla yüklendi</load_success>
+		<load>Yükleniyor...</load>
+		<save>Kaydediliyor...</save>
+		<saved>Oyun kaydedildi</saved>
+		<main_login>Oyunu kaydetmek için giriş yap</main_login>
+		<logout_popup>Facebook'tan çıkış yapmak istiyor musun?</logout_popup>
+		<login_popup>İlerlemeni kaydetmek için lütfen Facebook'a giriş yap.</login_popup>
+		<fail_popup>Bir ağ ya da sunucu sorunu nedeniyle bağlanılamıyor. Lütfen internet bağlantını kontrol edip sonra tekrar dene.</fail_popup>
+		<upgrade_max>MAKS</upgrade_max>
+		<str_ranking>SIRALAMA</str_ranking>
+		<str_knockout>NAKAVT</str_knockout>
+		<str_escape>KAÇIŞ</str_escape>
+		<str_boss>PATRON</str_boss>
+		<str_next>SIRADAKİ SEVİYE:</str_next>
+		<str_complete>TAMAMLANDI</str_complete>
+		<str_fail>BAŞARISIZ</str_fail>
+		<str_sign_in>İlerlemeni kaydetmek ve ücretsiz altın para almak için giriş yap</str_sign_in>
+		<str_signed_in>Facebook'a giriş yaptın.</str_signed_in>
+		<str_like>Facebook sayfamızı beğen ve ücretsiz altın para al.</str_like>
+		<str_social>SOSYAL</str_social>
+		<str_achievement>BAŞARILAR</str_achievement>
+		<str_achievement_unlock>BAŞARININ KİLİDİ AÇILDI</str_achievement_unlock>
+		<str_claim>AL</str_claim>
+		<str_popup_add>HESABINA 1.000 ALTIN PARA EKLENDİ.</str_popup_add>
+		<str_share>HEMEN PAYLAŞ:</str_share>
+		<str_season_1>1. SEZON</str_season_1>
+		<str_season_2>2. SEZON</str_season_2>
+		<str_season_3>3. SEZON</str_season_3>
+		<str_unlock_share>YENİ BİR ARABANIN KİLİDİNİ AÇTIM.</str_unlock_share>
+		<str_description>NitroStreet Run gelmiş geçmiş en büyük sürümüyle geri geldi!</str_description>
+		<str_achievement_share>BİR BAŞARININ KİLİDİNİ AÇTIM.</str_achievement_share>
+		<str_achievement_1>Arabanı iki kez yükselt.</str_achievement_1>
+		<str_achievement_2>10 arabayı yoldan çıkar.</str_achievement_2>
+		<str_social_bonus>BONUS SEVİYE</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Bonus seviyeyi 4 kez oyna.</str_achievement_3>
+		<str_achievement_4>2 patron alt et.</str_achievement_4>
+		<str_coming>Çok yakında</str_coming>
+		<str_hint_1>Araba değiştirmeyi dene: Bazı yarışlar hızlı, bazı yarışlar yavaş arabalarla daha kolay kazanılır.</str_hint_1>
+		<str_hint_2>Kazanmanın yolu arabalarını yükseltmekten geçer.</str_hint_2>
+		<str_hint_3>Yarışlarda nitro güçlendirmelerini toplamak iyi bir stratejidir.</str_hint_3>
+		<str_unlock_3>SÜPER ARABANIN KİLİDİNİ AÇTIN!</str_unlock_3>
+		<str_share_1>Arkadaşlarına ne kadar muhteşem olduğunu göster:</str_share_1>
+		<str_share_2>Başarınla hava at:</str_share_2>
+		<str_progress>İLERLEMEN:</str_progress>
+	</language>
+	
+	<language lang="ru">
+		<str_level>УРОВЕНЬ </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>ПЕРЕСЕКИТЕ ФИНИШНУЮ ЧЕРТУ ПЕРВЫМ.</str_mission_ranking>
+		<str_mission_ranking_1>1 МЕСТО</str_mission_ranking_1>
+		<str_mission_knockout>ВЫБЕЙТЕ </str_mission_knockout>
+		<str_mission_knockout_1> АВТО</str_mission_knockout_1>
+		<str_mission_escape>СКРОЙТЕСЬ ОТ КОПОВ</str_mission_escape>
+		<str_coin_collected>СОБРАНО МОНЕТ: </str_coin_collected>
+		<str_coin_collected_1> </str_coin_collected_1>
+		<str_bigcoin_collected>СОБРАНО БОЛЬШИХ МОНЕТ: </str_bigcoin_collected>
+		<str_bigcoin_collected_1> </str_bigcoin_collected_1>
+		<str_topspeed>МАКС. СКОРОСТЬ</str_topspeed>
+		<str_acceleration>УСКОРЕНИЕ</str_acceleration>
+		<str_nitro>НИТРО</str_nitro>
+		<str_coinbonus>МОНЕТНЫЙ БОНУС</str_coinbonus>
+		<str_topspeed_unit> МИЛЬ/Ч</str_topspeed_unit>
+		<str_nitro_unit> СЕК.</str_nitro_unit>
+		<str_coinbonus_unit> %</str_coinbonus_unit>
+		<str_total>ВСЕГО</str_total>
+		<str_unlock_1>ПОЗДРАВЛЯЕМ!</str_unlock_1>
+		<str_unlock_2>ВЫ ОТКРЫЛИ НОВОЕ АВТО.</str_unlock_2>
+		<str_confirm>ВЫ УВЕРЕНЫ?</str_confirm>
+		<str_tuto>НАЖМИТЕ, ЧТОБЫ НАЧАТЬ.</str_tuto>
+		<str_bonus>БОНУСНЫЙ УРОВЕНЬ!</str_bonus>
+		<skip_level>Желаете пропустить этот уровень?</skip_level>
+		<main_hello>Приветствуем, [username]</main_hello>
+		<load_success>Сохраненные данные загружены</load_success>
+		<load>Загрузка…</load>
+		<save>Сохранение...</save>
+		<saved>Игра сохранена</saved>
+		<main_login>Подключитесь, чтобы сохранить игру</main_login>
+		<logout_popup>Хотите выйти из Facebook?</logout_popup>
+		<login_popup>Пожалуйста, войдите в Facebook, чтобы сохранить прогресс.</login_popup>
+		<fail_popup>Не удалось подключиться из-за проблем с сетью или сервером. Пожалуйста, удостоверьтесь, что вы подключены к Интернету и повторите попытку.</fail_popup>
+		<upgrade_max>МАКС.</upgrade_max>
+		<str_ranking>РЕЙТИНГ</str_ranking>
+		<str_knockout>ВЫБИВАНИЕ</str_knockout>
+		<str_escape>ПОБЕГ</str_escape>
+		<str_boss>ДУЭЛЬ</str_boss>
+		<str_next>СЛЕД. УРОВЕНЬ:</str_next>
+		<str_complete>ВЫПОЛНЕНО</str_complete>
+		<str_fail>НЕ ВЫПОЛНЕНО</str_fail>
+		<str_sign_in>Войдите, чтобы сохранить прогресс и получить монеты в подарок.</str_sign_in>
+		<str_signed_in>Вы подключены к Facebook.</str_signed_in>
+		<str_like>Поставьте лайк на нашей Facebook-странице и получите в подарок монеты.</str_like>
+		<str_social>ОБЩЕНИЕ</str_social>
+		<str_achievement>ДОСТИЖЕНИЯ</str_achievement>
+		<str_achievement_unlock>ПОЛУЧЕНО ДОСТИЖЕНИЕ</str_achievement_unlock>
+		<str_claim>ЗАБРАТЬ</str_claim>
+		<str_popup_add>ВЫ ПОЛУЧАЕТЕ 1000 МОНЕТ.</str_popup_add>
+		<str_share>ПОДЕЛИТЬСЯ:</str_share>
+		<str_season_1>СЕЗОН 1</str_season_1>
+		<str_season_2>СЕЗОН 2</str_season_2>
+		<str_season_3>СЕЗОН 3</str_season_3>
+		<str_unlock_share>Мне удалось открыть новый автомобиль.</str_unlock_share>
+		<str_description>Встречайте обновленный NitroStreet Run!</str_description>
+		<str_achievement_share>Мне удалось получить достижение.</str_achievement_share>
+		<str_achievement_1>Улучшить автомобиль дважды.</str_achievement_1>
+		<str_achievement_2>Выбить 10 автомобилей.</str_achievement_2>
+		<str_social_bonus>БОНУСНЫЙ УРОВЕНЬ</str_social_bonus>
+		<str_1000>1000</str_1000>
+		<str_achievement_3>Пройдите бонусный уровень 4 раза.</str_achievement_3>
+		<str_achievement_4>Победите 2 боссов</str_achievement_4>
+		<str_coming>Скоро</str_coming>
+		<str_hint_1>Попробуйте сменить авто: некоторые заезды легче выиграть на быстрых автомобилях, некоторые - на медленных.</str_hint_1>
+		<str_hint_2>Улучшение автомобиля - ключ к победе.</str_hint_2>
+		<str_hint_3>Собирайте нитро-ускорители во время гонок.</str_hint_3>
+		<str_unlock_3>ВЫ ОТКРЫЛИ СУПЕРКАР!</str_unlock_3>
+		<str_share_1>Расскажите друзьям о своих успехах:</str_share_1>
+		<str_share_2>Похвастайтесь своими достижениями:</str_share_2>
+		<str_progress>ВАШ ПРОГРЕСС:</str_progress>
+	</language>
+	
+	<language lang="id">
+		<str_level>LEVEL </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>JADILAH YANG PERTAMA FINIS.</str_mission_ranking>
+		<str_mission_ranking_1>POSISI KE-1</str_mission_ranking_1>
+		<str_mission_knockout>HANCURKAN </str_mission_knockout>
+		<str_mission_knockout_1> KENDARAAN</str_mission_knockout_1>
+		<str_mission_escape>MELARIKAN DIRI DARI POLISI</str_mission_escape>
+		<str_coin_collected> </str_coin_collected>
+		<str_coin_collected_1> KOIN TERKUMPUL</str_coin_collected_1>
+		<str_bigcoin_collected> </str_bigcoin_collected>
+		<str_bigcoin_collected_1> KOIN BESAR TERKUMPUL</str_bigcoin_collected_1>
+		<str_topspeed>KECEPATAN MAKSIMAL</str_topspeed>
+		<str_acceleration>AKSELERASI</str_acceleration>
+		<str_nitro>NITRO</str_nitro>
+		<str_coinbonus>BONUS KOIN</str_coinbonus>
+		<str_topspeed_unit> MPJ</str_topspeed_unit>
+		<str_nitro_unit> DETIK</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>TOTAL</str_total>
+		<str_unlock_1>SELAMAT!</str_unlock_1>
+		<str_unlock_2>KAMU TELAH MEMBUKA MOBIL BARU.</str_unlock_2>
+		<str_confirm>APAKAH KAMU YAKIN?</str_confirm>
+		<str_tuto>KETUK UNTUK MEMULAI.</str_tuto>
+		<str_bonus>LEVEL BONUS!</str_bonus>
+		<skip_level>Apakah kamu ingin melewati level ini?</skip_level>
+		<main_hello>Halo, [username]</main_hello>
+		<load_success>Game tersimpan berhasil dimuat</load_success>
+		<load>Memuat...</load>
+		<save>Menyimpan...</save>
+		<saved>Game disimpan</saved>
+		<main_login>Log in untuk menyimpan game</main_login>
+		<logout_popup>Apakah kamu ingin log out dari Facebook?</logout_popup>
+		<login_popup>Silakan log in ke Facebook untuk menyimpan progresmu.</login_popup>
+		<fail_popup>Tidak dapat menghubungkan karena masalah jaringan atau server. Silakan periksa koneksi Internetmu dan coba lagi nanti.</fail_popup>
+		<upgrade_max>MAKS</upgrade_max>
+		<str_ranking>PERINGKAT</str_ranking>
+		<str_knockout>KNOCK OUT</str_knockout>
+		<str_escape>KABUR</str_escape>
+		<str_boss>TANDING BOS</str_boss>
+		<str_next>LEVEL BERIKUTNYA:</str_next>
+		<str_complete>TUNTAS</str_complete>
+		<str_fail>GAGAL</str_fail>
+		<str_sign_in>Masuk untuk menyimpan progresmu dan dapatkan koin gratis.</str_sign_in>
+		<str_signed_in>Telah log in ke Facebook.</str_signed_in>
+		<str_like>Sukai laman Facebook kami dan dapatkan koin gratis.</str_like>
+		<str_social>SOSIAL</str_social>
+		<str_achievement>PENCAPAIAN</str_achievement>
+		<str_achievement_unlock>PENCAPAIAN TERBUKA</str_achievement_unlock>
+		<str_claim>KLAIM</str_claim>
+		<str_popup_add>1.000 KOIN TELAH DITAMBAHKAN KE AKUNMU.</str_popup_add>
+		<str_share>BAGIKAN SEKARANG:</str_share>
+		<str_season_1>MUSIM 1</str_season_1>
+		<str_season_2>MUSIM 2</str_season_2>
+		<str_season_3>MUSIM 3</str_season_3>
+		<str_unlock_share>AKU TELAH MEMBUKA MOBIL BARU.</str_unlock_share>
+		<str_description>Nitro Street Run kembali dan lebih besar dari sebelumnya!</str_description>
+		<str_achievement_share>AKU TELAH MEMBUKA PENCAPAIAN.</str_achievement_share>
+		<str_achievement_1>Upgrade mobilmu dua kali.</str_achievement_1>
+		<str_achievement_2>Hancurkan 10 kendaraan.</str_achievement_2>
+		<str_social_bonus>LEVEL BONUS</str_social_bonus>
+		<str_1000>1.000</str_1000>
+		<str_achievement_3>Mainkan level Bonus 4 kali.</str_achievement_3>
+		<str_achievement_4>Kalahkan 2 bos</str_achievement_4>
+		<str_coming>Segera hadir</str_coming>
+		<str_hint_1>Cobalah ganti mobil: beberapa balapan lebih mudah untuk dimenangkan dengan mobil yang cepat, balapan yang lainnya dengan mobil yang lebih lambat.</str_hint_1>
+		<str_hint_2>Kunci untuk menang adalah dengan melakukan upgrade pada mobilmu.</str_hint_2>
+		<str_hint_3>Strategi yang baik adalah mengumpulkan power up nitro selama balapan.</str_hint_3>
+		<str_unlock_3>KAMU MEMBUKA SUPERCAR!</str_unlock_3>
+		<str_share_1>Biarkan temanmu tahu betapa kerennya kamu:</str_share_1>
+		<str_share_2>Pamerkan pencapaianmu:</str_share_2>
+		<str_progress>PROGRESMU:</str_progress>
+	</language>
+	
+	<language lang="th">
+		<str_level>เลเวล </str_level>
+		<str_level_1> </str_level_1>
+		<str_mission_ranking>เข้าเส้นชัยเป็นคนแรก</str_mission_ranking>
+		<str_mission_ranking_1>อันดับที่ 1</str_mission_ranking_1>
+		<str_mission_knockout>คว่ำพาหนะ </str_mission_knockout>
+		<str_mission_knockout_1> คัน</str_mission_knockout_1>
+		<str_mission_escape>หนีจากตำรวจ</str_mission_escape>
+		<str_coin_collected>เก็บเหรียญได้ </str_coin_collected>
+		<str_coin_collected_1> เหรียญ</str_coin_collected_1>
+		<str_bigcoin_collected>เก็บเหรียญใหญ่ได้ </str_bigcoin_collected>
+		<str_bigcoin_collected_1> เหรียญ</str_bigcoin_collected_1>
+		<str_topspeed>ความเร็วสูงสุด</str_topspeed>
+		<str_acceleration>ความเร่ง</str_acceleration>
+		<str_nitro>ไนโตร</str_nitro>
+		<str_coinbonus>โบนัสเหรียญ</str_coinbonus>
+		<str_topspeed_unit> ไมล์/ชม.</str_topspeed_unit>
+		<str_nitro_unit> วินาที</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>รวม</str_total>
+		<str_unlock_1>ยินดีด้วย!</str_unlock_1>
+		<str_unlock_2>คุณปลดล็อครถใหม่</str_unlock_2>
+		<str_confirm>แน่ใจหรือไม่</str_confirm>
+		<str_tuto>แตะเพื่อเริ่ม</str_tuto>
+		<str_bonus>เลเวลโบนัส!</str_bonus>
+		<skip_level>คุณต้องการข้ามเลเวลนี้หรือไม่</skip_level>
+		<main_hello>สวัสดี [username]</main_hello>
+		<load_success>โหลดบันทึกสำเร็จ</load_success>
+		<load>กำลังโหลด...</load>
+		<save>กำลังบันทึก...</save>
+		<saved>บันทึกเกมแล้ว</saved>
+		<main_login>ล็อกอินเพื่อบันทึกเกม</main_login>
+		<logout_popup>คุณต้องการล็อกเอาท์ออกจาก Facebook หรือไม่</logout_popup>
+		<login_popup>โปรดล็อกอินเข้าสู่ Facebook เพื่อบันทึกความคืบหน้าของคุณ</login_popup>
+		<fail_popup>ไม่สามารถเชื่อมต่อได้เนื่องจากปัญหาทางเครือข่ายหรือ|เซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของ|คุณ และลองใหม่อีกครั้งในภายหลัง</fail_popup>
+		<upgrade_max>สูงสุด</upgrade_max>
+		<str_ranking>จัดลำดับ</str_ranking>
+		<str_knockout>คว่ำรถ</str_knockout>
+		<str_escape>หลบหนี</str_escape>
+		<str_boss>สู้กับบอส</str_boss>
+		<str_next>เลเวลถัดไป:</str_next>
+		<str_complete>สำเร็จ</str_complete>
+		<str_fail>ล้มเหลว</str_fail>
+		<str_sign_in>ล็อกอินเพื่อบันทึกความคืบหน้าและรับเหรียญฟรี</str_sign_in>
+		<str_signed_in>ล็อกอินเข้าสู่ Facebook แล้ว</str_signed_in>
+		<str_like>กดถูกใจเพจ Facebook ของเราและรับเหรียญฟรี</str_like>
+		<str_social>โซเชียล</str_social>
+		<str_achievement>ความสำเร็จ</str_achievement>
+		<str_achievement_unlock>ปลดล็อค ความสำเร็จแล้ว</str_achievement_unlock>
+		<str_claim>รับ</str_claim>
+		<str_popup_add>เพิ่มเหรียญ 1,000 เหรียญ เข้าสู่บัญชีของคุณแล้ว</str_popup_add>
+		<str_share>แชร์เลย:</str_share>
+		<str_season_1>ซีซั่น 1</str_season_1>
+		<str_season_2>ซีซั่น 2</str_season_2>
+		<str_season_3>ซีซั่น 3</str_season_3>
+		<str_unlock_share>ฉันปลดล็อครถคันใหม่แล้ว</str_unlock_share>
+		<str_description>NitroStreet Run กลับมาแล้ว และยิ่งใหญ่กว่าเดิม!</str_description>
+		<str_achievement_share>ฉันปลดล็อคความสำเร็จแล้ว</str_achievement_share>
+		<str_achievement_1>อัพเกรดรถสองครั้ง</str_achievement_1>
+		<str_achievement_2>คว่ำรถ 10 คัน</str_achievement_2>
+		<str_social_bonus>เลเวลโบนัส</str_social_bonus>
+		<str_1000>1,000</str_1000>
+		<str_achievement_3>เล่นเลเวลโบนัส 4 ครั้ง</str_achievement_3>
+		<str_achievement_4>เอาชนะบอส 2 ครั้ง</str_achievement_4>
+		<str_coming>เร็ว ๆ นี้</str_coming>
+		<str_hint_1>ลองเปลี่ยนรถดู: ในการแข่งบางครั้ง คุณจะชนะง่ายกว่าถ้าใช้รถเร็ว แต่บางครั้งรถช้าก็ดีกว่า</str_hint_1>
+		<str_hint_2>การอัพเกรดรถเป็นกุญแจหลักในการคว้าชัยชนะ</str_hint_2>
+		<str_hint_3>กลยุทธ์ที่ดีอย่างหนึ่งคือ ควรเก็บสะสมไนโตรในระหว่างการแข่งเสมอ</str_hint_3>
+		<str_unlock_3>คุณปลดล็อคซูเปอร์คาร์แล้ว!</str_unlock_3>
+		<str_share_1>อวดให้เพื่อน ๆ รู้เลยว่าคุณเจ๋งแค่ไหน:</str_share_1>
+		<str_share_2>อวดความสำเร็จของคุณ:</str_share_2>
+		<str_progress>ความคืบหน้าของคุณ:</str_progress>
+	</language>
+	
+	<language lang="tw">
+		<str_level>第</str_level>
+		<str_level_1>關</str_level_1>
+		<str_mission_ranking>率先越過終點線</str_mission_ranking>
+		<str_mission_ranking_1>第一名</str_mission_ranking_1>
+		<str_mission_knockout>撞翻</str_mission_knockout>
+		<str_mission_knockout_1>輛車</str_mission_knockout_1>
+		<str_mission_escape>避開警車</str_mission_escape>
+		<str_coin_collected>收集</str_coin_collected>
+		<str_coin_collected_1>枚金幣</str_coin_collected_1>
+		<str_bigcoin_collected>收集</str_bigcoin_collected>
+		<str_bigcoin_collected_1>枚大金幣</str_bigcoin_collected_1>
+		<str_topspeed>最高速度</str_topspeed>
+		<str_acceleration>加速度</str_acceleration>
+		<str_nitro>氮氣</str_nitro>
+		<str_coinbonus>金幣加成</str_coinbonus>
+		<str_topspeed_unit>英里/小時</str_topspeed_unit>
+		<str_nitro_unit>秒</str_nitro_unit>
+		<str_coinbonus_unit>%</str_coinbonus_unit>
+		<str_total>總計</str_total>
+		<str_unlock_1>恭喜！</str_unlock_1>
+		<str_unlock_2>你已解鎖一輛新車</str_unlock_2>
+		<str_confirm>確定購買？</str_confirm>
+		<str_tuto>點擊以開始</str_tuto>
+		<str_bonus>獎勵關卡！</str_bonus>
+		<skip_level>你想跳過此關卡嗎？</skip_level>
+		<main_hello>你好，[username]！</main_hello>
+		<load_success>已成功載入存檔</load_success>
+		<load>載入中...</load>
+		<save>儲存中...</save>
+		<saved>遊戲已存檔</saved>
+		<main_login>登入以儲存遊戲進度</main_login>
+		<logout_popup>你想要登出Facebook嗎？</logout_popup>
+		<login_popup>請登入Facebook以儲存你的進度</login_popup>
+		<fail_popup>因發生網路或伺服器問題而無法連線|請檢查你的網路連線並稍後再試</fail_popup>
+		<upgrade_max>最高級</upgrade_max>
+		<str_ranking>排名賽</str_ranking>
+		<str_knockout>撞擊賽</str_knockout>
+		<str_escape>逃脫賽</str_escape>
+		<str_boss>Boss賽</str_boss>
+		<str_next>下一關：</str_next>
+		<str_complete>完成</str_complete>
+		<str_fail>失敗</str_fail>
+		<str_sign_in>登入以儲存進度並獲得免費金幣</str_sign_in>
+		<str_signed_in>已登入Facebook</str_signed_in>
+		<str_like>到我們的Facebook專頁按讚並獲得免費金幣</str_like>
+		<str_social>社交</str_social>
+		<str_achievement>成就</str_achievement>
+		<str_achievement_unlock>已解鎖成就</str_achievement_unlock>
+		<str_claim>領取</str_claim>
+		<str_popup_add>已新增1,000枚金幣至你的帳號</str_popup_add>
+		<str_share>立即分享：</str_share>
+		<str_season_1>賽季1</str_season_1>
+		<str_season_2>賽季2</str_season_2>
+		<str_season_3>賽季3</str_season_3>
+		<str_unlock_share>我解鎖了一輛新車</str_unlock_share>
+		<str_description>《街頭飛車》強勢回歸！</str_description>
+		<str_achievement_share>我解鎖了一項成就</str_achievement_share>
+		<str_achievement_1>升級你的車輛兩次</str_achievement_1>
+		<str_achievement_2>撞翻10輛車</str_achievement_2>
+		<str_social_bonus>獎勵關卡</str_social_bonus>
+		<str_1000>1,000</str_1000>
+		<str_achievement_3>玩獎勵關卡4次</str_achievement_3>
+		<str_achievement_4>擊敗2輛Boss車</str_achievement_4>
+		<str_coming>即將推出</str_coming>
+		<str_hint_1>嘗試切換車輛：某些比賽需要使用速度較快的車才能輕鬆勝出，某些則需要速度較慢的車。</str_hint_1>
+		<str_hint_2>升級車輛是致勝關鍵</str_hint_2>
+		<str_hint_3>在比賽期間收集氮氣道具是個好策略</str_hint_3>
+		<str_unlock_3>你解鎖了超級跑車！</str_unlock_3>
+		<str_share_1>讓朋友知道你有多讚吧：</str_share_1>
+		<str_share_2>炫耀你的成就：</str_share_2>
+		<str_progress>你的進度：</str_progress>
+	</language>
+	
+	<language lang="cn">
+		<str_level>第</str_level>
+		<str_level_1>关</str_level_1>
+		<str_mission_ranking>首先冲过终点线。</str_mission_ranking>
+		<str_mission_ranking_1>第1名</str_mission_ranking_1>
+		<str_mission_knockout>撞翻</str_mission_knockout>
+		<str_mission_knockout_1>辆车</str_mission_knockout_1>
+		<str_mission_escape>逃脱警察的追捕</str_mission_escape>
+		<str_coin_collected>收集</str_coin_collected>
+		<str_coin_collected_1>个金币</str_coin_collected_1>
+		<str_bigcoin_collected>收集</str_bigcoin_collected>
+		<str_bigcoin_collected_1>个大金币</str_bigcoin_collected_1>
+		<str_topspeed>最高速度</str_topspeed>
+		<str_acceleration>加速度</str_acceleration>
+		<str_nitro>氮气</str_nitro>
+		<str_coinbonus>金币奖励</str_coinbonus>
+		<str_topspeed_unit>MPH</str_topspeed_unit>
+		<str_nitro_unit>秒</str_nitro_unit>
+		<str_coinbonus_unit> %</str_coinbonus_unit>
+		<str_total>总计</str_total>
+		<str_unlock_1>祝贺您！</str_unlock_1>
+		<str_unlock_2>您解锁了新车辆。</str_unlock_2>
+		<str_confirm>您确定吗？</str_confirm>
+		<str_tuto>点击开始。</str_tuto>
+		<str_bonus>奖励关卡！</str_bonus>
+		<skip_level>确定要跳过该关卡吗？</skip_level>
+		<main_hello>你好，[username]</main_hello>
+		<load_success>存档已成功载入</load_success>
+		<load>正在加载……</load>
+		<save>正在保存……</save>
+		<saved>游戏已保存</saved>
+		<main_login>登录以保存游戏</main_login>
+		<logout_popup>你想要注销Facebook吗？</logout_popup>
+		<login_popup>请登录Facebook，以保存你的进度。</login_popup>
+		<fail_popup>由于网络或服务器问题，无法连接。|请检查你的网络连接，并稍后重试。</fail_popup>
+		<upgrade_max>最高级</upgrade_max>
+		<str_ranking>排位赛</str_ranking>
+		<str_knockout>撞击赛</str_knockout>
+		<str_escape>逃脱追捕</str_escape>
+		<str_boss>Boss战</str_boss>
+		<str_next>下一关卡：</str_next>
+		<str_complete>完成</str_complete>
+		<str_fail>失败</str_fail>
+		<str_sign_in>登录以保存进度并获取免费金币。</str_sign_in>
+		<str_signed_in>已登录Facebook。</str_signed_in>
+		<str_like>为我们的Facebook主页点赞，获取免费金币。</str_like>
+		<str_social>社交</str_social>
+		<str_achievement>成就</str_achievement>
+		<str_achievement_unlock>成就已解锁</str_achievement_unlock>
+		<str_claim>领取</str_claim>
+		<str_popup_add>已为你的账号添加1000金币。</str_popup_add>
+		<str_share>立即分享：</str_share>
+		<str_season_1>赛季1</str_season_1>
+		<str_season_2>赛季2</str_season_2>
+		<str_season_3>赛季3</str_season_3>
+		<str_unlock_share>我解锁了一辆新车。</str_unlock_share>
+		<str_description>NitroStreet Run重磅回归，精彩加倍！</str_description>
+		<str_achievement_share>我解锁了一个成就。</str_achievement_share>
+		<str_achievement_1>升级你的车辆两次。</str_achievement_1>
+		<str_achievement_2>撞翻10辆车。</str_achievement_2>
+		<str_social_bonus>奖励关卡</str_social_bonus>
+		<str_1000>1,000</str_1000>
+		<str_achievement_3>玩4次奖励关卡。</str_achievement_3>
+		<str_achievement_4>击败2个Boss</str_achievement_4>
+		<str_coming>敬请期待</str_coming>
+		<str_hint_1>试试切换车辆：一些比赛用更快的车容易获胜，一些则需要用更慢的。</str_hint_1>
+		<str_hint_2>获胜的关键是升级你的车辆。</str_hint_2>
+		<str_hint_3>在比赛中收集氮气道具不失为一个良策。</str_hint_3>
+		<str_unlock_3>你解锁了超级赛车！</str_unlock_3>
+		<str_share_1>让你的好友们知道你有多棒：</str_share_1>
+		<str_share_2>炫耀你的成就：</str_share_2>
+		<str_progress>你的进度：</str_progress>
+	</language>
+	
+	<!--update 14/02/2017-->
+	
+</loc>
